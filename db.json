@@ -4,13 +4,31 @@
       "id": 1,
       "name": "Pink",
       "hex": "#FFC0CB",
-      "votes": 0
+      "votes": 15
     },
     {
-        "id": 2,
-        "name": "Aqua",
-        "hex": "#00FFFF",
-        "votes": 0
+      "name": "afdsfd",
+      "hex": "#000000",
+      "votes": 5,
+      "id": 2
+    },
+    {
+      "name": "gdfsgfdsgdfs",
+      "hex": "#098635",
+      "votes": 5,
+      "id": 5
+    },
+    {
+      "name": "red",
+      "hex": "#cb1a1a",
+      "votes": 2,
+      "id": 6
+    },
+    {
+      "name": "fdsafd",
+      "hex": "#781111",
+      "votes": 1,
+      "id": 7
     }
   ]
 }
